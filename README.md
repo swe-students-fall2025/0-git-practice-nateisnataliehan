@@ -9,3 +9,8 @@ One key point that resonated with me is the *democratization of data*. AI allows
 I find this important because it fosters collaborative decision-making: developers, managers, and business users can now work together with shared understanding.  
 
 — *Natalie Han*
+
+## Peer Comments
+
+### Omer Hortig
+I agree with **Natalie** that AI will allow broader participation in product development, yet I do believe that could also cause problems if someone without the proper context starts making changes in a codebase with AI. I think that in the future, making sure that teams have very strong governance practices will be essential as non-technical "new-comers" join the fray. 
